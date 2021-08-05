@@ -16,4 +16,7 @@ class Car {
     }
 }
 
-let mySweetRide = new Car('mySweetRide')
+let mySweetRide = new Car('Pontiac', 'Fiero', 1988)
+
+mySweetRide.honk()
+mySweetRide.performMaintenance()
