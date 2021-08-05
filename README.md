@@ -1,3 +1,5 @@
+I looked at the linked W3 documentation and reviewed videos from the module for help. I spent half an hour trying to fix an error before realizing I spelled something wrong.
+
 # ES6 Classes
 
 &nbsp;
